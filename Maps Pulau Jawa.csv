@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Maps Pulau Jawa</name>
+    <description/>
+    <NetworkLink>
+      <name>Maps Pulau Jawa</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1tWH8wWy6r6bSgYD1W9j0Mt6mtCeT85w]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
